@@ -5,7 +5,7 @@
 Sou estudante de Sistemas para Internet no IFSul, com foco em desenvolvimento web. Tenho experiência com Java, Spring Boot, Thymeleaf e MySQL, além de trabalhar com HTML, CSS, JavaScript e React no front-end. Busco minha primeira oportunidade como desenvolvedor front-end júnior, unindo disciplina, dedicação e vontade de aprender na prática.
 
 ### 🎓 Estudante de Sistemas para Internet no IFSul
-🔍 Buscando uma oportunidade como Desenvolvedor Front-end
+🔍 Buscando uma oportunidade como Desenvolvedor
 
 💡 Apaixonado por criar interfaces intuitivas e funcionais com React.js, JavaScript, HTML e CSS
 
